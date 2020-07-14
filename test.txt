@@ -1,2 +1,2 @@
-GIt is a version system.
+GIt is a distributed version control system.
 Git is free softwarm.
